@@ -1,0 +1,15 @@
+D:\A\VS\App\ConsoleApp\HW1\HW1\bin\Debug\net6.0\HW1.exe
+D:\A\VS\App\ConsoleApp\HW1\HW1\bin\Debug\net6.0\HW1.deps.json
+D:\A\VS\App\ConsoleApp\HW1\HW1\bin\Debug\net6.0\HW1.runtimeconfig.json
+D:\A\VS\App\ConsoleApp\HW1\HW1\bin\Debug\net6.0\HW1.dll
+D:\A\VS\App\ConsoleApp\HW1\HW1\bin\Debug\net6.0\HW1.pdb
+D:\A\VS\App\ConsoleApp\HW1\HW1\obj\Debug\net6.0\HW1.csproj.AssemblyReference.cache
+D:\A\VS\App\ConsoleApp\HW1\HW1\obj\Debug\net6.0\HW1.GeneratedMSBuildEditorConfig.editorconfig
+D:\A\VS\App\ConsoleApp\HW1\HW1\obj\Debug\net6.0\HW1.AssemblyInfoInputs.cache
+D:\A\VS\App\ConsoleApp\HW1\HW1\obj\Debug\net6.0\HW1.AssemblyInfo.cs
+D:\A\VS\App\ConsoleApp\HW1\HW1\obj\Debug\net6.0\HW1.csproj.CoreCompileInputs.cache
+D:\A\VS\App\ConsoleApp\HW1\HW1\obj\Debug\net6.0\HW1.dll
+D:\A\VS\App\ConsoleApp\HW1\HW1\obj\Debug\net6.0\refint\HW1.dll
+D:\A\VS\App\ConsoleApp\HW1\HW1\obj\Debug\net6.0\HW1.pdb
+D:\A\VS\App\ConsoleApp\HW1\HW1\obj\Debug\net6.0\HW1.genruntimeconfig.cache
+D:\A\VS\App\ConsoleApp\HW1\HW1\obj\Debug\net6.0\ref\HW1.dll
